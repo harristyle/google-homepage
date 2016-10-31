@@ -1,0 +1,167 @@
+a{
+	text-decoration: none;
+	font-size: 13px;
+}
+
+#logo_wrap{
+	width:272px;height:92px;
+	display:block;
+	margin:180px auto 0;
+}
+
+#logo_wrap1{
+	position: absolute;
+}
+
+#israel{
+	position: absolute;
+	font-size:16px;
+	color:blue;
+	top:60px;
+	right:12px;
+}
+
+#form_wrap{
+	width:50vw;min-width:450px;max-width:550px;height:26px;
+	display: block;
+	margin:0 auto;
+}
+
+
+#input_wrap{
+	height:26px;
+	margin-top: 40px;
+	border:1px solid black;
+	padding:5px 0 5px 10px;	
+}
+
+#search{
+	min-width:380px;max-width:470px;height:100%;
+	float:left;
+	font-size:16px;
+	padding:0;
+
+	border:0px;
+}
+
+#img_keyboard{
+	max-height: 100%;
+	margin:40% 2px 0 2px;
+}
+
+#img_microphone{
+	width:auto;height:100%;
+}
+
+
+.input_a{
+	height:100%;
+	float: right;
+}
+
+#top_bar{
+	display:block;
+}
+
+#header_ul{
+	position:absolute;
+	list-style: none;
+	top:6px;
+	left:0;
+}
+
+.header_li{
+	position:relative;
+	float:left;
+	margin-right:20px;
+	left:-10px;
+}
+
+#login{
+	position:relative;
+	left:-5px;
+	color:white;
+	background-color: rgb(30,144,255);
+	padding:7px 13px 7px;
+	text-shadow: 0.1px 0.1px 0.01px white, -0.1px -0.1px 0.01px white, -0.1px 0.1px 0.01px white, 0.1px +0.1px 0.01px white;
+	border-radius:2px;
+}
+
+#login:active{
+	box-shadow:0px 0px 35px 2px rgb(0,100,255) inset;
+}
+
+#buttons_wrap{
+	width:240px;
+	margin:0 auto;
+	position:relative;
+	top:50px;
+	display:block;
+	margin:0 auto;
+}
+
+#luck{
+	margin-right: 1px;
+}
+
+#regular{
+	margin-left: 1px;
+}
+.button{
+	-webkit-appearance: none;
+	border:none;
+	font-size:12px;
+	padding:10px 15px;
+	color: black;
+	background-color: rgb(248,248,248);
+	box-shadow: 0px 0px 0.1px 0.7px white inset, 0px 0px 10px 4px rgb(240,240,240) inset;
+}
+.button:active{
+	box-shadow: 0px 0px 7px 2px rgb(200,200,200) inset;
+}
+
+#languages{
+	position: relative;
+	top:80px;
+	display:block;
+	width:210px;
+	margin:0 auto;
+}
+
+#bottom_bar{
+	width:100vw;
+	border-top:solid 1px rgb(222,222,222);
+	display:block;
+	position:absolute;
+	bottom:0px;
+	left:-2px;
+	background-color: rgb(248,248,248);
+}
+
+.footer_ul{
+	list-style: none;
+}
+
+#footer_ul_l{
+	float: left;
+}
+
+#footer_ul_r{
+	position: relative;
+	float: right;
+	right: 30px;
+}
+
+.footer_li{
+	text-decoration: none
+}
+
+.footer_li_l{
+	float:left;
+	margin-right: 26px;
+}
+
+.footer_li_r{
+	float:right;
+	margin-left: 26px;
+}
