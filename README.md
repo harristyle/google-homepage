@@ -7,3 +7,5 @@ skills that i have displayed after i have completed this mini-project:
 -beginner linux/ubuntu/bash skills.  
 -abillity to use web inspector.  
 -master googling skills.  
+
+From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css).
